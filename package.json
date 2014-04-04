@@ -29,7 +29,8 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-flowdock": ">= 0.6.0",
     "cheerio":">= 0.14",
-    "githubot":">=0.5"
+    "githubot":">=0.5",
+    "jsdom": ">=0.10.4"
   },
 
   "engines": {
