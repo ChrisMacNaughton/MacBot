@@ -31,7 +31,8 @@
     "cheerio":">= 0.14",
     "githubot":">=0.5",
     "jsdom": ">=0.10.4",
-    "underscore":">=1.6.0"
+    "underscore":">=1.6.0",
+    "soupselect":">= 0.2.2"
   },
 
   "engines": {
