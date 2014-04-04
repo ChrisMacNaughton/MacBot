@@ -32,7 +32,8 @@
     "githubot":">=0.5",
     "jsdom": ">=0.10.4",
     "underscore":">=1.6",
-    "soupselect":">= 0.2"
+    "soupselect":">= 0.2",
+    "htmlparser":">=1.7.7"
   },
 
   "engines": {
